@@ -112,11 +112,11 @@ footer {
   .inline-list li {
     display: block;
   }
-  p {
+  /* p {
     font-size: 1.5em;
     line-height: 1.5em;
   }
   .meta {
     line-height: 1.5em;
-  }
+  } */
 }
