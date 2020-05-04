@@ -51,7 +51,7 @@ p {
   font-weight: 700;
   color: #2f4858;
   display: block;
-  top: 10%;
+  line-height: 1.2em;
 }
 
 .container {
@@ -113,11 +113,10 @@ footer {
     display: block;
   }
   p {
-    font-size: 2.5em;
+    font-size: 1.5em;
     line-height: 1.5em;
   }
   .meta {
-    font-size: 1.5em;
     line-height: 1.5em;
   }
 }
